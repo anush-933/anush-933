@@ -33,16 +33,12 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### 💼 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" />
-</p>
+| Language | Framework | DevOps | Tools |
+|---------|-----------|--------|-------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
