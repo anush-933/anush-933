@@ -33,12 +33,19 @@
 
 ---
 
-### 💼 Tech Stack
+### 🚀 Tech Stack Journey
 
-| Language | Framework | DevOps | Tools |
-|---------|-----------|--------|-------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+- 🌱 **Currently Learning**
+  - 🧠 PyTorch, Redis, Kafka
+
+- 🛠️ **Proficient In**
+  - Python, JavaScript, Docker, Git, FastAPI, SQL
+
+- ☁️ **Cloud & DevOps**
+  - AWS, GitHub Actions, Linux, CI/CD, Terraform
+
+- 💻 **Tools & Platforms**
+  - VSCode, Postman, Jupyter, Linux CLI
 
 ---
 
