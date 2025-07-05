@@ -33,19 +33,16 @@
 
 ---
 
-### 🚀 Tech Stack Journey
+### 🛠 Tech Stack
 
-- 🌱 **Currently Learning**
-  - 🧠 PyTorch, Redis, Kafka
-
-- 🛠️ **Proficient In**
-  - Python, JavaScript, Docker, Git, FastAPI, SQL
-
-- ☁️ **Cloud & DevOps**
-  - AWS, GitHub Actions, Linux, CI/CD, Terraform
-
-- 💻 **Tools & Platforms**
-  - VSCode, Postman, Jupyter, Linux CLI
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws"/>
+</p>
 
 ---
 
