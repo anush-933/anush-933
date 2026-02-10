@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anushreekofficiall@gmail.com**
 
-<!- 📄 Know about my experiences [https://drive.google.com/file/d/1uylupMHcPbIHxaZvYxNQhFuLhW24b3z7/view?usp=sharing](https://drive.google.com/file/d/1uylupMHcPbIHxaZvYxNQhFuLhW24b3z7/view?usp=sharing)>
+<!-- 📄 Know about my experiences [https://drive.google.com/file/d/1uylupMHcPbIHxaZvYxNQhFuLhW24b3z7/view?usp=sharing](https://drive.google.com/file/d/1uylupMHcPbIHxaZvYxNQhFuLhW24b3z7/view?usp=sharing)-->
 
 - ⚡ Fun fact **I love teaching math and computer science to students**
 
