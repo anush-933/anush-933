@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushree</h1>
-<h3 align="center">On a mission to make machines think and data speak 📢🧠| Aspiring AI Engineer | Building intelligent systems with Python & Data</h3>
+<h3 align="center">On a mission to make machines think and data speak 📢🧠| AI DevSecOps Engineer @ TCS | Building intelligent systems with Python, Data and Pipelines</h3>
 
 - 🌱 I’m currently learning **Apache kafka & RAG systems**
 
